@@ -4,7 +4,6 @@
 
 ![Resume Analyzer](https://img.shields.io/badge/Python-3.11+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Latest-red.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## ✨ Features
 
@@ -106,21 +105,6 @@ Checks for essential resume sections:
 - **Metrics**: Real-time statistics (word count, file type)
 - **Score Card**: Prominent score display with gradient styling
 
-## 📈 Screenshots
-
-### Main Interface
-- Clean, professional design
-- Easy file upload interface
-- Comprehensive analysis dashboard
-
-### Analysis Results
-- Visual score display
-- Detailed suggestions
-- Skills badge display
-- Section status indicators
-
-## 🔧 Configuration
-
 ### Analysis Options
 Toggle features in the sidebar:
 - 🌀 **Word Cloud Generation**
@@ -134,42 +118,12 @@ keywords = ['python', 'project', 'experience', 'education', 'skills']
 score = sum(1 for k in keywords if k in text.lower()) * 20
 ```
 
-## 🤝 Contributing
-
-We welcome contributions! Here's how to get started:
-
-1. **Fork the repository**
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
-3. **Make your changes**
-4. **Commit your changes**
-   ```bash
-   git commit -m 'Add amazing feature'
-   ```
-5. **Push to the branch**
-   ```bash
-   git push origin feature/amazing-feature
-   ```
-6. **Open a Pull Request**
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🌟 Acknowledgments
 
 - **Streamlit** - For the amazing web framework
 - **python-docx** - For Word document processing
 - **PyPDF2** - For PDF text extraction
 - **WordCloud** - For beautiful word visualizations
-
-## 📞 Support
-
-- 🐛 **Bug Reports**: [Create an issue](https://github.com/yourusername/resume-analyzer/issues)
-- 💡 **Feature Requests**: [Submit an idea](https://github.com/yourusername/resume-analyzer/discussions)
-- 📧 **Contact**: your.email@example.com
 
 ## 🔮 Roadmap
 
@@ -185,6 +139,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repository if you found it helpful!**
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Yejarla Srinivas](https://github.com/yourusername)
 
 </div>
