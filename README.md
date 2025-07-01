@@ -6,6 +6,8 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Latest-red.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
+## 🌟 **[🚀 Try Live Demo](https://resumepro.streamlit.app/)**
+
 ## ✨ Features
 
 - 📁 **Multi-Format Support**: TXT, DOCX, and PDF files
