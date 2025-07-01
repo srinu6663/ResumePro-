@@ -1,9 +1,10 @@
-# 📄 Resume Analyzer
+# 📄 ResumePro+
 
 > **AI-Powered Resume Analysis Tool** - Get instant feedback and suggestions to improve your resume with support for multiple file formats.
 
-![Resume Analyzer](https://img.shields.io/badge/Python-3.11+-blue.svg)
+![ResumePro+](https://img.shields.io/badge/Python-3.11+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Latest-red.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## ✨ Features
 
@@ -36,7 +37,7 @@
 
 3. **Run the application**
    ```bash
-   streamlit run backup.py
+   streamlit run app.py
    ```
 
 4. **Open in browser**
